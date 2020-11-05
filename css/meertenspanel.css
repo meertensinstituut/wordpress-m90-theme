@@ -54,7 +54,7 @@ ul ul ul {
   padding: 4rem 1.5rem; }
 
 .mpBrand .mpLogo {
-  width: 8rem;
+  width: 6rem;
   height: auto; }
 
 .mpNav {
@@ -86,7 +86,7 @@ ul ul ul {
   .mpContent {
     width: calc(100% - 350px); }
   .mpBrand .mpLogo {
-    width: 12rem; }
+    width: 9rem; }
   .mpNav {
     flex-direction: column; }
     .mpNav a {

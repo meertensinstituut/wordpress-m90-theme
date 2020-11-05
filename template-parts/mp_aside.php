@@ -1,6 +1,6 @@
 <div class="mpSidebar">
   <div class="mpBrand">
-    <img src="<?php bloginfo('template_url'); ?>/images/logo-meertensPanel.png" alt="" class="mpLogo">
+    <img src="<?php bloginfo('template_url'); ?>/images/logo-meertens90.png" alt="" class="mpLogo">
   </div>
 
   <nav class="mpNav">
